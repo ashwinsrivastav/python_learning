@@ -10,6 +10,6 @@ if a!=0:
     c=a-y
     x=x[-1:c:-1]
 x[-1::-1]
-print(x)
+#print(x)
 print(len(x))
 

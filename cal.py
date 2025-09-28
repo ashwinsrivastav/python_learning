@@ -11,8 +11,8 @@ def cal():
      print("wrong input")
      return "a"
 print("calculator")
-a=eval(input("enter the first number"))
-b=eval(input("enter the second number"))
+a=int(input("enter the first number"))
+b=int(input("enter the second number"))
 c=input("enter the operation")
 result=cal()
 if result!="a":
