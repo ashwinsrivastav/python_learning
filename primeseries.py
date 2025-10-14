@@ -12,4 +12,5 @@ else:
     for i in range(2,a):
         if prime(i):
             print(i,end=",")
+            #checking shit
  
