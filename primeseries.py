@@ -1,4 +1,3 @@
-import math
 def prime(n):
     b=n//2
     for i in range(2,b):
