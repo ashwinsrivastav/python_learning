@@ -5,3 +5,5 @@ for i in s.lower():
        c=c+i
 if c==c[::-1]:
     print("true")
+else:
+    print("false")
